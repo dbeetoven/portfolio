@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Beetoven Saito Desir
 
-You can use the [editor on GitHub](https://github.com/dbeetoven/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Bibliografia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Estudiante  Ingeniería en sistemas de información. Actualmente me desempeño en el area de desarrolllo de software en un equipo dinámico ,ameno,y colaborativo. Asimismo nuestro trabajo consiste en dar soporte a aplicaciones, Mejora continua, y Desarrollo de  nuevas aplicaciones.
+
+Realmente me apasiona  mi trabajo y disfruto  en todos sus aspectos los nuevos desafios,Cumpliendo con los plazos de entregas solicitados.
+A medida que  avanzo en este proceso obtengo las correspondientes certificaciones y me  encuentro capacitandome  Constantemente  para superar mi nivel de desempeño.
+
+Soy permeable al trabajo en equipo  y en búsqueda de contacto con gente interesante, positiva y creativa para intercambiar ideas. 
+
+Cuento con disponibilidad para ser contactado.
 
 ### Markdown
 
